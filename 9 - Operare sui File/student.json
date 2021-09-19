@@ -1,0 +1,29 @@
+{
+
+	"name": "Giuseppe Gullo",
+	"enrolled": "11 Giugno 2010",
+  "university": "Politecnico di Torino",
+  "average_grade" : 28.3,
+
+	"courses": [
+
+		{
+			"name": "Analisi 1",
+			"grade": 27
+		},
+		{
+			"name": "Algebra lineare",
+			"grade": 28
+		},
+		{
+			"name": "Informatica 1",
+			"grade": 30
+		},
+		{
+			"name": "Architettura dei calcolatori",
+			"grade": 28
+		}
+
+	]
+
+}
